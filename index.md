@@ -1,8 +1,15 @@
+# Nihal's first CS193 Homework
 ## Welcome to GitHub Pages 
+
+Favorite Things About CS193
+- TAs are really nice
+- I will be able to learn a lot of useful CS tools
+- I will be able to better understand how to have a strong resume and be ready for job opportunities
+- This is not a class that will overwhelm me
 
 Welcome to CS 193!!! You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files. 
 
-Whenever you commit to this repository, GitHub * Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
